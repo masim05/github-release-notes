@@ -1,5 +1,5 @@
 {
-    "name": "github-release-notes",
+    "name": "@masim/github-release-notes",
     "version": "0.19.0",
     "description": "A fork of git+https://github.com/github-tools/github-release-notes.git.",
     "main": "./github-release-notes.js",
