@@ -23,7 +23,8 @@
     },
     "preferGlobal": "true",
     "bin": {
-        "gren": "bin/gren.js"
+        "gren": "bin/gren.js",
+        "prepareTags": "bin/prepareTags.js"
     },
     "keywords": [
         "Github",
