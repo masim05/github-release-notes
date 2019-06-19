@@ -42,7 +42,7 @@ describe('prepareTags.js', () => {
         it('should decrease patch version', () => {
             const latest = 'v1.2.4-rc2';
             const prelatest = 'v1.2.4-rc1';
-            const expected = 'v1.2.4';
+            const expected = 'v1.2.4-rc1';
             assert.deepEqual(calculateReleaseToDiffWith(latest, prelatest), expected);
         });
     });
