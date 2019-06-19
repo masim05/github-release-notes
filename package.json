@@ -1,6 +1,6 @@
 {
     "name": "@masim/github-release-notes",
-    "version": "0.21.9",
+    "version": "0.21.10",
     "description": "A fork of git+https://github.com/github-tools/github-release-notes.git.",
     "main": "./github-release-notes.js",
     "scripts": {
